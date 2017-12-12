@@ -510,11 +510,11 @@ msgstr ""
 
 #: ../data/org.sugarlabs.gschema.xml.h:105 ../data/sugar.schemas.in.h:77
 msgid "A description of the hardware available to the user."
-msgstr ""
+msgstr "صارف کے لیے موجود ھارڈویر کی تفسیلات۔"
 
 #: ../data/org.sugarlabs.gschema.xml.h:106 ../data/sugar.schemas.in.h:78
 msgid "This string is displayed in the control panel, about computer section."
-msgstr ""
+msgstr "یہ لائن کنٹرول پینل میں کمپیوٹر کے خانے میں نظر آ رھی ھے۔"
 
 #: ../extensions/cpsection/aboutme/__init__.py:23
 msgid "About Me"
@@ -559,7 +559,7 @@ msgstr "رنگ تبديل کرنے کے ليے کلک کريں:"
 #: ../extensions/cpsection/aboutme/view.py:294
 #: ../src/jarabe/intro/window.py:203
 msgid "Select gender:"
-msgstr ""
+msgstr "جنس اختیار کریں:"
 
 # کمپیوٹر کے بارے میں
 #: ../extensions/cpsection/aboutcomputer/__init__.py:21
