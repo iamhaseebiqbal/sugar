@@ -815,7 +815,7 @@ msgstr "ملک:"
 
 #: ../extensions/cpsection/modemconfiguration/view.py:118
 msgid "Provider:"
-msgstr "مھیا کرنے والا:"
+msgstr "مہیا کرنے والا:"
 
 #: ../extensions/cpsection/modemconfiguration/view.py:119
 msgid "Plan:"
@@ -854,7 +854,7 @@ msgstr "منصوبہ #%s"
 #: ../extensions/cpsection/modemconfiguration/model.py:292
 #, python-format
 msgid "Provider %s"
-msgstr "مھیا کرنے والا %s"
+msgstr "مہیا کرنے والا %s"
 
 # نيٹ ورک
 #: ../extensions/cpsection/network/__init__.py:21
