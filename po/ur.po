@@ -559,7 +559,7 @@ msgstr "رنگ تبديل کرنے کے ليے کلک کريں:"
 #: ../extensions/cpsection/aboutme/view.py:294
 #: ../src/jarabe/intro/window.py:203
 msgid "Select gender:"
-msgstr "جنس اختیار کریں:"
+msgstr "جنس منتخب کریں:"
 
 # کمپیوٹر کے بارے میں
 #: ../extensions/cpsection/aboutcomputer/__init__.py:21
@@ -576,7 +576,7 @@ msgstr "پہچان"
 
 #: ../extensions/cpsection/aboutcomputer/view.py:87
 msgid "Model:"
-msgstr ""
+msgstr "ماڈل"
 
 #: ../extensions/cpsection/aboutcomputer/view.py:91
 msgid "Serial Number:"
@@ -608,7 +608,7 @@ msgstr "وائرلیس فرم وئر:"
 #: ../extensions/cpsection/aboutcomputer/view.py:134
 #, python-format
 msgid "%d days ago"
-msgstr ""
+msgstr "دن پہلے %d"
 
 #: ../extensions/cpsection/aboutcomputer/view.py:136
 #: ../src/jarabe/journal/journaltoolbox.py:169
@@ -618,7 +618,7 @@ msgstr "آج"
 
 #: ../extensions/cpsection/aboutcomputer/view.py:139
 msgid "Last system update:"
-msgstr ""
+msgstr "سسٹم کی آخری اپ ڈیٹ:"
 
 # کاپی رائٹ اور لائسنس
 #: ../extensions/cpsection/aboutcomputer/view.py:150
@@ -654,12 +654,12 @@ msgstr ""
 
 #: ../extensions/cpsection/background/view.py:57
 msgid "Clear background"
-msgstr ""
+msgstr "پس منظر کو صاف کریں"
 
 # تاريخ & وقت
 #: ../extensions/cpsection/datetime/__init__.py:21
 msgid "Date & Time"
-msgstr "تاريخ & وقت"
+msgstr "تاريخ اور وقت"
 
 # نقص، ٹائم زون موجود نہیں ہے۔
 #: ../extensions/cpsection/datetime/model.py:100
@@ -711,7 +711,7 @@ msgstr "کنارہ"
 
 #: ../extensions/cpsection/frame/view.py:123
 msgid "Size"
-msgstr ""
+msgstr "سائز"
 
 #: ../extensions/cpsection/frame/view.py:221
 msgid "toolbar size"
@@ -723,20 +723,20 @@ msgstr ""
 
 #: ../extensions/cpsection/frame/view.py:228
 msgid "exact corner"
-msgstr ""
+msgstr "عین مطابق کونہ یا کنارہ"
 
 #: ../extensions/cpsection/frame/view.py:230
 msgid "exact edge"
-msgstr ""
+msgstr "عین مطابق کنارہ"
 
 #: ../extensions/cpsection/frame/view.py:232
 msgid "ignored"
-msgstr ""
+msgstr "نظر انداز"
 
 #. TRANS: px as in pixels
 #: ../extensions/cpsection/frame/view.py:235
 msgid "{}px"
-msgstr ""
+msgstr "{} px"
 
 # کی بورڈ
 #: ../extensions/cpsection/keyboard/__init__.py:21
@@ -752,7 +752,7 @@ msgstr "کی بورڈ ماڈل"
 # ترتیب تبدیل کرنے کی کی
 #: ../extensions/cpsection/keyboard/view.py:301
 msgid "Key(s) to change layout"
-msgstr "ترتیب تبدیل کرنے کی کی"
+msgstr "ترتیب تبدیل کرنے کا(کے) بٹن"
 
 # کی بورڈ ترتیب
 #: ../extensions/cpsection/keyboard/view.py:369
@@ -794,11 +794,11 @@ msgstr ""
 #: ../extensions/cpsection/language/view.py:383
 #, python-format
 msgid "Error writting language configuration (%s)"
-msgstr ""
+msgstr "(%s) زبان کی کونفگریشن لکھنے میں خرابی"
 
 #: ../extensions/cpsection/modemconfiguration/__init__.py:21
 msgid "Modem"
-msgstr ""
+msgstr "موڈیم"
 
 # سیلولر نیٹ ورک (3G) اور موبائل براڈبینڈ کنکشن قائم کرنے کے لئے آپ کو مندجہ زیل معلومات فرہم کرنا ہونگی۔
 #: ../extensions/cpsection/modemconfiguration/view.py:94
@@ -811,15 +811,15 @@ msgstr ""
 
 #: ../extensions/cpsection/modemconfiguration/view.py:117
 msgid "Country:"
-msgstr ""
+msgstr "ملک:"
 
 #: ../extensions/cpsection/modemconfiguration/view.py:118
 msgid "Provider:"
-msgstr ""
+msgstr "مھیا کرنے والا:"
 
 #: ../extensions/cpsection/modemconfiguration/view.py:119
 msgid "Plan:"
-msgstr ""
+msgstr "منصوبہ:"
 
 # صارف کا نام
 #: ../extensions/cpsection/modemconfiguration/view.py:160
@@ -849,12 +849,12 @@ msgstr "ذاتی شناختی نمبر (PIN)"
 #: ../extensions/cpsection/modemconfiguration/model.py:162
 #, python-format
 msgid "Plan #%s"
-msgstr ""
+msgstr "منصوبہ #%s"
 
 #: ../extensions/cpsection/modemconfiguration/model.py:292
 #, python-format
 msgid "Provider %s"
-msgstr ""
+msgstr "مھیا کرنے والا %s"
 
 # نيٹ ورک
 #: ../extensions/cpsection/network/__init__.py:21
@@ -884,7 +884,7 @@ msgstr "وائرلیس"
 
 #: ../extensions/cpsection/network/view.py:73
 msgid "The wireless radio may be turned off to save battery life."
-msgstr ""
+msgstr "بیٹری کے لمبے دورانیے کے لئے وائرلیس ریڈیو بند کر دیا جا سکتا ہے."
 
 #: ../extensions/cpsection/network/view.py:86
 #, fuzzy
@@ -894,11 +894,11 @@ msgstr "ریڈیو"
 #: ../extensions/cpsection/network/view.py:103
 msgid ""
 "Discard wireless connections if you have trouble connecting to the network"
-msgstr ""
+msgstr "اگر آپ کو نیٹ ورک سے منسلک کرنے میں دشواری ہوتی ہے تو وائرلیس کنکشن کو مسترد کریں"
 
 #: ../extensions/cpsection/network/view.py:113
 msgid "Discard wireless connections"
-msgstr ""
+msgstr "وائرلیس کنکشن کو مسترد کریں"
 
 # تعاون
 #: ../extensions/cpsection/network/view.py:129
@@ -924,11 +924,12 @@ msgid ""
 "Social Help is a forum that lets you connect with developers and discuss "
 "Sugar Activities.  Changing servers means discussions will happen in a "
 "different place with different people."
-msgstr ""
+msgstr "سوشل مدد ایک ایسا فورم ہے جو آپ کو ڈویلپرز سے منسلک کرنے اور شوگر سرگرمیوں پر تبادلہ خیال کرنے میں مدد دیتا ہے."
+" سرور تبدیل کرنے کا مطلب مختلف لوگوں کے ساتھ مختلف جگہ پر بات چیت ہو گی."
 
 #: ../extensions/cpsection/network/view.py:173
 msgid "Social Help Server:"
-msgstr ""
+msgstr "سماجی مدد کا سرور:"
 
 #: ../extensions/cpsection/power/__init__.py:24
 msgid "Power"
@@ -959,7 +960,7 @@ msgstr ""
 
 #: ../extensions/cpsection/updater/view.py:84
 msgid "Update in progress..."
-msgstr ""
+msgstr "۔۔۔اپ ڈیٹ پیش رفت میں ھے"
 
 # اپ ڈیٹس کے لئے جانچ کی جا رہی...
 #: ../extensions/cpsection/updater/view.py:119
